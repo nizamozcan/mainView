@@ -14,10 +14,10 @@ import MainView from 'react-native-main-view';
 <MainView
   backgroundImage={require("./src/back6.png")}
   header={{
-    title: "Örnek Başlık",
+    title: "Example Title",
     titleStyle: { color: "black" },
     backIcon: require("./src/background.jpeg"),
-    backPress: () => console.log("Geri Düğmesi Tıklandı")
+    backPress: () => console.log("Click Press")
   }}
 >
 {/* Component content can go here */}
