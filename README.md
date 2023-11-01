@@ -14,10 +14,6 @@ import MainView from 'react-native-main-view';
 
 // ...
 
-for installation
-npm i react-native-main-view
-
-
 <MainView
   backgroundImage={require("./src/back6.png")}
   header={{
